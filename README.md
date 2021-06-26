@@ -1,8 +1,12 @@
 # IOS-App-Architecture
-
+## Content
 - [Which Architecture Is Right for Me?](https://github.com/egorskikh/IOS-App-Architecture#which-architecture-is-right-for-me)
 - [Example App: Koober](https://github.com/egorskikh/IOS-App-Architecture#example-app-koober)
 - Objects & Their Dependencies
+- Architecture: MVVM
+- Architecture: Redux
+- Architecture: Elements, Part 1
+- Architecture: Elements, Part 2
 
 ## Which Architecture Is Right for Me?
 ### Key points
