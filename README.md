@@ -1,4 +1,15 @@
 # IOS-App-Architecture
+
+<p align='center'>
+This repository was written based on this book.
+<p align='center'>
+</p>
+<p align='center'>
+ <a href='https://www.raywenderlich.com/books/advanced-ios-app-architecture' target="_blank">
+    <img src="https://img.shields.io/badge/App Architecture-inactive"/>
+<p align='center'>
+</p>
+   
 ## Content
 - [Which Architecture Is Right for Me?](https://github.com/egorskikh/IOS-App-Architecture#which-architecture-is-right-for-me)
 - [Example App: Koober](https://github.com/egorskikh/IOS-App-Architecture#example-app-koober)
