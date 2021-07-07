@@ -33,6 +33,6 @@ This repository was written based on this book.
 - Koober - приложение для вызова кенгуру, является примером приложения, используемым в этой книге.
 - Koober включает в себя многие сложности, встречающиеся в реальных приложениях, такие как аутентификация и навигация.
 - Полная повторная реализация Koober сопровождает каждую главу об архитектуре.
-- Проект Koober Xcode состоит из четырех целей: Koober, Koober_iOS, KooberUIKit и KooberKit.
+- Проект Koober Xcode состоит из четырех модулей: Koober, Koober_iOS, KooberUIKit и KooberKit.
 - MainViewController, LaunchViewController и OnboardingViewController координируют свои действия для запуска Koober.
 <br> </br>
